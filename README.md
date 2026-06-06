@@ -38,7 +38,7 @@ The project strictly follows the Model-View-Controller (MVC) design pattern:
 ---
 
 ## :man_technologist: **Autor**
-Ezechiel Tonkeme
+**Ezechiel Tonkeme**
 
 
 ![Strom_und_Spannungsglättung_C++](https://github.com/user-attachments/assets/b4476ba2-2bbf-461e-9e2d-00c23f23fa86)
