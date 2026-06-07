@@ -37,7 +37,7 @@ The project strictly follows the Model-View-Controller (MVC) design pattern:
 
 ---
 
-## :man_technologist: **Autor**
+## :man_technologist: **Author**
 **Ezechiel Tonkeme**
 
 
